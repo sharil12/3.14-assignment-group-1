@@ -1,0 +1,19 @@
+{
+  "name": "3.14-assignment-group-1",
+  "version": "1.0.0",
+  "description": "3.14 activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharil12/3.14-assignment-group-1.git"
+  },
+  "author": "group1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharil12/3.14-assignment-group-1/issues"
+  },
+  "homepage": "https://github.com/sharil12/3.14-assignment-group-1#readme"
+}
