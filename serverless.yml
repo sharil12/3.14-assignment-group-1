@@ -1,4 +1,4 @@
-service: GROUP 1-SERVERLESS
+service: GROUP-1-SERVERLESS
 frameworkVersion: '3'
 
 provider:
