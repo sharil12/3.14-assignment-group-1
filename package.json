@@ -18,6 +18,6 @@
   "homepage": "https://github.com/sharil12/3.14-assignment-group-1#readme",
   "dependencies": {
     "jest": "^29.7.0",
-    "serverless-offline": "^13.3.0"
+    "serverless-offline": "^13.3.1"
   }
 }
